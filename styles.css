@@ -1,6 +1,6 @@
 /* Hero Image Section */
 .hero-image {
-  background-image: url('path_to_your_image.jpg'); /* Image URL */
+  background-image: url('/images/frontcover.png'); /* Image URL */
   background-size: cover; /* Make the image cover the full section */
   background-position: center; /* Center the image */
   width: 100%; /* Make the section take up full width */
