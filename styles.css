@@ -1,0 +1,29 @@
+/* Hero Image Section */
+.hero-image {
+  background-image: url('path_to_your_image.jpg'); /* Image URL */
+  background-size: cover; /* Make the image cover the full section */
+  background-position: center; /* Center the image */
+  width: 100%; /* Make the section take up full width */
+  height: 400px; /* Adjust the height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; /* Text color */
+  text-align: center;
+  padding: 0;
+}
+
+.hero-image h1 {
+  font-size: 3rem; /* Adjust the font size */
+  margin: 0;
+}
+
+.hero-image p {
+  font-size: 1.2rem; /* Adjust the font size */
+  margin: 0;
+}
+
+/* Content Section */
+.content {
+  padding: 20px;
+}
