@@ -17,6 +17,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+<div class="image-container">
+  <img src="images/beermap.png" alt="World Beer Trends Map" class="background-image">
+  <div class="text-overlay">Flavors of the World: A Beer Time Capsule</div>
+</div>
+
 ## Header 2
 
 > This is a blockquote following a header.
