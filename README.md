@@ -1,3 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Pages Site</title>
+  <style>
+    /* Full-width hero image */
+    .hero-image {
+      background-image: url('images/beermap.png'); /* Replace with the path to your image */
+      background-size: cover; /* Ensure the image covers the entire width and height */
+      background-position: center; /* Center the image */
+      height: 100vh; /* Make the hero section take up the full height of the viewport */
+      width: 100%; /* Make the image span the entire width */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white; /* Text color on top of the image */
+      text-align: center;
+    }
+
+    .hero-image h1 {
+      font-size: 3rem; /* Large heading text */
+      margin: 0;
+    }
+
+    .hero-image p {
+      font-size: 1.2rem; /* Subheading text */
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Full-width hero image section -->
+  <div class="hero-image">
+    <div>
+      <h1>Welcome to My Project</h1>
+      <p>Exploring Beer Trends Across the Globe</p>
+    </div>
+  </div>
+
+  <!-- Other Content Below the Hero Image -->
+  <div class="content">
+    <h2>Project Details</h2>
+    <p>Here you can describe your project and showcase its features...</p>
+  </div>
+
+</body>
+</html>
+
+
 ![Beer map introduction](/images/beermap.png)
 
 # Flavors of the World: A Beer Time Capsule
