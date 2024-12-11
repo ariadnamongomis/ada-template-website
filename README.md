@@ -17,9 +17,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<div class="image-container">
-  <img src="images/beermap.png" alt="World Beer Trends Map" class="background-image">
-  <div class="text-overlay">Flavors of the World: A Beer Time Capsule</div>
+<div style="position: relative; display: inline-block;">
+  <img src="images/beermap.png" alt="World Beer Trends Map" style="width: 100%; max-width: 800px;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 2rem; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); text-align: center;">
+    Flavors of the World: A Beer Time Capsule
+  </div>
 </div>
 
 ## Header 2
