@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Flavors of the World: A Beer Time Capsule
 
-![Beer map introduction](/images/largebeermap3.jpg)
+![Beer map introduction](/images/beermap.png)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
