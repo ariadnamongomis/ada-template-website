@@ -21,15 +21,18 @@
     /* Style for the text overlay */
     .hero-text {
       position: absolute; /* Position text on top of the image */
-      top: 5%; /* Center vertically */
+      top: 50%; /* Center vertically */
       left: 50%; /* Center horizontally */
       transform: translateX(-50%);
       color: white; /* White text color */
       font-family: 'Roboto', sans-serif;
       text-align: center; /* Center the text */
-      font-size: 4rem; /* Large text size */
+      font-size: 3rem; /* Large text size */
       font-weight: bold; /* Optional: Make the text bold */
       text-shadow: 2px 2px 4px #000000; /* Black outline */
+      white-space: nowrap; /* Prevent wrapping */
+      width: 90%; /* Use up to 90% of the screen width */
+      overflow: hidden; /* Prevent overflow issues */
     }
   </style>
 </head>
