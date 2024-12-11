@@ -1,12 +1,12 @@
 ![Beer map introduction](/images/beermap.png)
 
-# Flavors of the World: A Beer Time Capsule
+# Global Beer Trends: Demographic Analysis and Flavor Evolution Across Continents
 
 ![Beer map introduction](/images/frontcover.png)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+(Introduction)
 
-## Header 2
+# 
 
 > This is a blockquote following a header.
 >
