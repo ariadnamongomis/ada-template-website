@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Beers Analysis
-description: Webiste for ADA P3 milestone datastory
+description: Website for ADA P3 milestone datastory
 show_downloads: True
-include:
-  - README.md
 navigation:
   - title: Home
+    url: /
+  - title: Project Documentation
     url: /README.md
