@@ -3,7 +3,5 @@ title: Beers Analysis
 description: Webiste for ADA P3 milestone datastory
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+  - title: Home page
+    url: https://ariadnamongomis.github.io/ada-template-website/  
