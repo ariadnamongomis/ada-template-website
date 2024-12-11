@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: Beers Analysis
 description: Webiste for ADA P3 milestone datastory
 show_downloads: True
+include:
+  - README.md
 navigation:
-  - title: Home page
-    url: https://ariadnamongomis.github.io/ada-template-website/  
+  - title: Home
+    url: /README.md
